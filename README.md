@@ -3,7 +3,9 @@ Summary and Recommendation
 1. Overall Churn Overview 
 
 ● Total Customers: 7,043
+
 ● Total Churned: 1,869
+
 ● Churn Rate: 25.54%
 
 This means 1 out of every 4 customers leaves the company, signaling a major retention concern. 
@@ -11,8 +13,11 @@ This means 1 out of every 4 customers leaves the company, signaling a major rete
 2. Demographic Breakdown 
 
 a. Gender vs Churn 
+
 ● Male Churn: ~26% 
+
 ● Female Churn: ~25% 
+
 Interpretation: 
 There is no meaningful churn difference between genders. Gender is not a predictive feature for customer retention. 
 
